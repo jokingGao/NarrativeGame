@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "B3-BehaviorTreeFinal.CSharp", "B3-BehaviorTreeFinal.CSharp.csproj", "{3FDB4032-925C-1AD5-E48D-2FA1C18B34E2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "B3-BehaviorTreeFinal.CSharp.Editor", "B3-BehaviorTreeFinal.CSharp.Editor.csproj", "{A534B9C0-C3C2-9829-19FD-D5C269E69BB3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3FDB4032-925C-1AD5-E48D-2FA1C18B34E2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3FDB4032-925C-1AD5-E48D-2FA1C18B34E2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3FDB4032-925C-1AD5-E48D-2FA1C18B34E2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3FDB4032-925C-1AD5-E48D-2FA1C18B34E2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A534B9C0-C3C2-9829-19FD-D5C269E69BB3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A534B9C0-C3C2-9829-19FD-D5C269E69BB3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A534B9C0-C3C2-9829-19FD-D5C269E69BB3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A534B9C0-C3C2-9829-19FD-D5C269E69BB3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
